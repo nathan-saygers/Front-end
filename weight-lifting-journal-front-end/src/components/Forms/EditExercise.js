@@ -44,7 +44,7 @@ const EditExercise = ({editing, setEditing, currentExercise, updatedExercise}) =
                 <label>Sets</label>
                 <input 
                 type="text"
-                name="stes"
+                name="sets"
                 onChange={handleInputChange}
                 value={exercise.sets}
                 ref={register({required: "Sets required", pattern: {value: /^\d+$/, message: "Please Enter Only Numbers"}})}

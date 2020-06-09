@@ -20,10 +20,14 @@ Responsible for implimenting a NodeJS backend with Express
 [https://github.com/weight-lifting-journal-11/Backend](https://github.com/weight-lifting-journal-11/Backend)
 
 # My (Nathan Saygers) Contributions:
-Redux Reducer - Can be found in weight-lifting-journal-front-end/src/reducers/primaryReducer.js
-Redux Actions - Can be found in weight-lifting-journal-front-end/src/actions/primaryActions.js
-Form Management - Can be found in weight-lifting-journal-front-end/src/components/Forms
-Styling - Can be found in weight-lifting-journal-front-end/src/components/Styles
+### Redux Reducer: 
+Can be found in weight-lifting-journal-front-end/src/reducers/primaryReducer.js
+### Redux Actions: 
+Can be found in weight-lifting-journal-front-end/src/actions/primaryActions.js
+### Form Management: 
+Can be found in weight-lifting-journal-front-end/src/components/Forms
+### Styling: 
+Can be found in weight-lifting-journal-front-end/src/components/Styles
 
 ## Note:
 The Front-End repository for this project has been forked by Nathan Saygers to make updates for presentation.

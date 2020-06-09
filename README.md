@@ -1,4 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About this project:
+
+This project was created during a 1 week build sprint by Nathan Saygers and a team of Lambda Web Development students.  Each team member had specific goals based on their roles:
+
+### Cameron Hawely - React I
+Responsible for app components and styling
+
+### Nathan Saygers - React II
+Responsible for state management (Redux) and ad hoc assistance to React I
+
+### April Clements - Backend
+Responsible for implimenting a NodeJS backend with Express
+
+## Tech Stack:
+
+### Front End - React JS (with Redux)
+[https://github.com/weight-lifting-journal-11/Front-end](https://github.com/weight-lifting-journal-11/Front-end)
+
+### Back End - Node JS (with Express)
+[https://github.com/weight-lifting-journal-11/Backend](https://github.com/weight-lifting-journal-11/Backend)
+
+## Note:
+The Front-End repository for this project has been forked by Nathan Saygers to make updates for presentation.
+
+# React Project Basics:
 
 ## Available Scripts
 

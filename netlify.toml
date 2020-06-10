@@ -1,7 +1,7 @@
 [build]
   command = "npm run-script build"
-  publish="weight-lifting-journal-front-end/build"
-  base = "weight-lifting-journal-front-end"
+  publish="weight-lifting-journal-front-end/public"
+  base = "weight-lifting-journal-front-end/"
 
 [[redirects]]
   from = "/*"

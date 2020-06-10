@@ -1,0 +1,9 @@
+[build]
+  command = "npm run-script build"
+  publish="WeightLiftingJournal/build"
+  base = "WeightLiftingJournal"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
